@@ -1,0 +1,2 @@
+# AMinimalCardGame
+Warm up exercise 
