@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/aminimalcardgame_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Card$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/classes/Card$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Card.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/classes/Card.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Card.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/classes/Card.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CardGame$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/classes/CardGame$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CardGame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/classes/CardGame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CardGame.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/classes/CardGame.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Deck$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/classes/Deck$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Deck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/classes/Deck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Deck.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /workspaces/AMinimalCardGame/target/out/jvm/scala-3.7.3/aminimalcardgame/classes/Deck.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-3.7.3/aminimalcardgame/aminimalcardgame_3-0.1.0-SNAPSHOT.jar[0m

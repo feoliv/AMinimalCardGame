@@ -1,0 +1,4 @@
+[debug] [aminimalcardgame-test] Classpath dependencies List()
+[debug] [aminimalcardgame-test] Dependencies from configurations List(aminimalcardgame)
+[debug] Bloop wrote the configuration of project 'aminimalcardgame-test' to '/workspaces/AMinimalCardGame/.bloop/aminimalcardgame-test.json'
+[success] Generated .bloop/aminimalcardgame-test.json
